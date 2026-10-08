@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Keccak-256 and the Base58Check checksum.
 //!
 //! TRON hashes the 64-byte public key with Keccak-256 (domain byte `0x01`),

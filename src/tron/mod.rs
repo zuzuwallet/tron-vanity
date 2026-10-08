@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Mainnet account-address derivation.
 //!
 //! The search path is libsecp256k1, `tiny-keccak`, `sha2`, and this crate's

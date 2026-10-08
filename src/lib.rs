@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Offline TRON mainnet account vanity generator.
 //!
 //! This crate does not use `unsafe`. The search derives uncompressed secp256k1

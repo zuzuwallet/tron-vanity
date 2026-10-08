@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Bitcoin-style Base58 and Base58Check.
 //!
 //! TRON uses the Bitcoin alphabet and a double-SHA-256 checksum. Encode and

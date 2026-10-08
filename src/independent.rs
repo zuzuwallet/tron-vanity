@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Independent account-address derivation.
 //!
 //! `k256` derives the uncompressed secp256k1 point. `sha3::Keccak256` hashes

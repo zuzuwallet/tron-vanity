@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! 64-character lowercase hex form of a 32-byte private key.
 //!
 //! This is the text TRON wallets show. It is not Bitcoin WIF, and it has no
