@@ -427,6 +427,7 @@ deny.toml
 .gitignore          /target and *-wallet.json
 LICENSE-APACHE
 LICENSE-MIT
+NOTICE
 README.md
 src/lib.rs          crate root, no unsafe
 src/main.rs         CLI
@@ -462,6 +463,10 @@ Integration tests use `CARGO_BIN_EXE_tron-vanity` when cargo sets it, and otherw
 ## License
 
 Copyright (c) 2026 ZuZu Wallet.
+
+https://ZuZuWallet.com
+
+Support@ZuZuWallet.com
 
 Licensed under either of
 
